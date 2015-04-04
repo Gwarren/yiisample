@@ -11,7 +11,7 @@ $config = [
                         'showScriptName' => false, 
                         'enablePrettyUrl' => true
                         ],
-        'request' => [
+       'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => 'dgVWk4LPSrdMSSouBUnSxUpS14n_WjN-',
         ],
